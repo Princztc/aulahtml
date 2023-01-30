@@ -1,0 +1,119 @@
+/* topo */
+
+#div1{
+    
+}
+
+#containercanto{
+    padding-left: 35%;
+    margin-top: 35px;
+}
+
+#container{
+    padding-left: 22%;
+    margin-top: 35px;
+}
+
+#containercanto2{
+    padding-left: 10%;
+    margin-top: 35px;
+}
+
+/* Fim topo */
+
+
+/* meio */
+
+#containercanto1{
+    padding-left: 35%;
+    margin-top: 90px;
+}
+
+#container2{
+    padding-left: 22%;
+    margin-top: 90px;
+}
+
+#containercanto3{
+    padding-left: 10%;
+    margin-top: 90px;
+}
+
+/* Fim meio */
+
+
+
+#containercanto10{
+    padding-left: 35%;
+    margin-top: 90px;
+}
+
+#container11{
+    padding-left: 22%;
+    margin-top: 90px;
+}
+
+#containercanto12{
+    padding-left: 10%;
+    margin-top: 90px;
+}
+
+#cor3{
+    margin-left: 44%;
+    width: 30%;
+    background-color: gray;
+    height: 50px;
+    font-size: 20px;
+    margin-top: 5%;
+    transition: transform .4s;
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+}
+
+#cor4{
+    margin-left: 32.5%;
+    width: 30%;
+    background-color: gray;
+    height: 50px;
+    font-size: 20px;
+    margin-top: 5%;
+    transition: transform .4s;
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+}
+
+#cor5{
+    margin-left: 21%;
+    width: 30%;
+    background-color: gray;
+    height: 50px;
+    font-size: 20px;
+    margin-top: 5%;
+    transition: transform .4s;
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+}
+
+p{
+    padding-left: 22%;
+    font-size: 20px;
+}
+
+#primeiro{
+    padding-left: 35%;
+}
+
+p#ultimo{
+    margin-right: 120px;
+}
+
+
+.rodape{
+    margin-top: 190px;
+}
